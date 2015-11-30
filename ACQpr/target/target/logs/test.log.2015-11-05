@@ -1,0 +1,162 @@
+2015-11-05 20:27:18 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-05 20:27:19 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-05 20:27:28 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-05 20:27:28 Page [INFO] - Start open page
+2015-11-05 20:28:16 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-05 20:28:16 Page [INFO] - Start open page
+2015-11-05 20:28:35 Page [INFO] - Page open successful
+2015-11-05 20:28:51 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:29:15 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:29:15 WebElementsActions [INFO] - input - aksdjl@mail.ru, to  - EmailField
+2015-11-05 20:29:16 WebElementsActions [INFO] - click ButtonPassField
+2015-11-05 20:29:16 WebElementsActions [INFO] - input - dafjhl, to  - PassFieldInput
+2015-11-05 20:29:17 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-05 20:29:18 Page [INFO] - Field Username and password are working correctly
+2015-11-05 20:29:19 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:29:21 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:29:21 WebElementsActions [INFO] - input - aksdjl@mail.ru, to  - EmailField
+2015-11-05 20:29:22 WebElementsActions [INFO] - click ButtonPassField
+2015-11-05 20:29:22 WebElementsActions [INFO] - input - , to  - PassFieldInput
+2015-11-05 20:29:22 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-05 20:29:22 Page [INFO] - Field Username and password are working correctly
+2015-11-05 20:29:23 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:29:25 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:29:25 WebElementsActions [INFO] - input - @mail.ru, to  - EmailField
+2015-11-05 20:29:25 WebElementsActions [INFO] - click ButtonPassField
+2015-11-05 20:29:25 WebElementsActions [INFO] - input - 123456, to  - PassFieldInput
+2015-11-05 20:29:25 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-05 20:29:28 Page [INFO] - Field Username and password are working correctly
+2015-11-05 20:29:29 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:29:31 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:29:31 WebElementsActions [INFO] - input - aksdjl.mail.ru, to  - EmailField
+2015-11-05 20:29:31 WebElementsActions [INFO] - click ButtonPassField
+2015-11-05 20:29:32 WebElementsActions [INFO] - input - 123456, to  - PassFieldInput
+2015-11-05 20:29:32 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-05 20:29:34 Page [INFO] - Field Username and password are working correctly
+2015-11-05 20:29:35 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:29:37 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:29:37 WebElementsActions [INFO] - input - aksdjl@mail.ru, to  - EmailField
+2015-11-05 20:29:37 WebElementsActions [INFO] - click ButtonPassField
+2015-11-05 20:29:38 WebElementsActions [INFO] - input - 123456, to  - PassFieldInput
+2015-11-05 20:29:38 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-05 20:29:42 Page [INFO] - Field Username and password are working correctly
+2015-11-05 20:29:43 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-05 20:30:35 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-05 20:30:35 Page [INFO] - Start open page
+2015-11-05 20:30:54 Page [INFO] - Page open successful
+2015-11-05 20:31:08 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:31:29 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:31:30 WebElementsActions [INFO] - input - lola21@mail.ru, to  - RegistrationEmail
+2015-11-05 20:31:31 WebElementsActions [INFO] - input - lola21@mail.ru, to  - RegistrationRepeatEmail
+2015-11-05 20:31:31 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-05 20:31:31 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-05 20:31:31 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-05 20:31:31 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-05 20:31:33 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-05 20:32:14 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:32:17 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:32:17 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationEmail
+2015-11-05 20:32:17 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationRepeatEmail
+2015-11-05 20:32:18 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-05 20:32:18 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-05 20:32:18 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-05 20:32:18 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-05 20:32:20 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-05 20:32:20 Page [INFO] - Registration Fields are working correctly
+2015-11-05 20:32:21 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:32:23 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:32:24 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationEmail
+2015-11-05 20:32:24 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationRepeatEmail
+2015-11-05 20:32:24 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-05 20:32:24 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-05 20:32:25 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-05 20:32:25 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-05 20:32:25 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-05 20:32:25 Page [INFO] - Registration Fields are working correctly
+2015-11-05 20:32:26 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:32:28 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:32:28 WebElementsActions [INFO] - input - @mail.ru, to  - RegistrationEmail
+2015-11-05 20:32:29 WebElementsActions [INFO] - input - @mail.ru, to  - RegistrationRepeatEmail
+2015-11-05 20:32:29 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-05 20:32:29 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-05 20:32:29 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-05 20:32:29 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-05 20:32:31 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-05 20:32:31 Page [INFO] - Registration Fields are working correctly
+2015-11-05 20:32:32 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:32:34 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:32:35 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationEmail
+2015-11-05 20:32:35 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-05 20:32:35 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-05 20:32:36 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-05 20:32:36 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-05 20:32:36 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-05 20:32:38 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-05 20:32:38 Page [INFO] - Registration Fields are working correctly
+2015-11-05 20:32:40 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-05 20:36:38 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-05 20:36:38 Page [INFO] - Start open page
+2015-11-05 20:37:01 Page [INFO] - Page open successful
+2015-11-05 20:37:18 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:37:38 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:37:39 WebElementsActions [INFO] - input - lola22@mail.ru, to  - RegistrationEmail
+2015-11-05 20:37:40 WebElementsActions [INFO] - input - lola22@mail.ru, to  - RegistrationRepeatEmail
+2015-11-05 20:37:40 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-05 20:37:40 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-05 20:37:40 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-05 20:37:41 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-05 20:37:45 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-05 20:37:45 Page [INFO] - Registration Fields are working correctly
+2015-11-05 20:37:45 WebElementsActions [INFO] - click ButtonLogOut
+2015-11-05 20:37:49 Page [INFO] - SwitchTo LogOut was correct
+2015-11-05 20:37:49 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:37:51 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:37:52 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationEmail
+2015-11-05 20:37:52 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationRepeatEmail
+2015-11-05 20:37:52 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-05 20:37:52 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-05 20:37:53 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-05 20:37:53 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-05 20:37:55 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-05 20:37:55 Page [INFO] - Registration Fields are working correctly
+2015-11-05 20:37:55 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:37:58 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:37:58 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationEmail
+2015-11-05 20:37:58 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationRepeatEmail
+2015-11-05 20:37:59 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-05 20:37:59 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-05 20:37:59 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-05 20:37:59 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-05 20:37:59 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-05 20:38:00 Page [INFO] - Registration Fields are working correctly
+2015-11-05 20:38:00 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:38:03 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:38:03 WebElementsActions [INFO] - input - @mail.ru, to  - RegistrationEmail
+2015-11-05 20:38:03 WebElementsActions [INFO] - input - @mail.ru, to  - RegistrationRepeatEmail
+2015-11-05 20:38:04 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-05 20:38:04 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-05 20:38:04 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-05 20:38:04 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-05 20:38:06 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-05 20:38:06 Page [INFO] - Registration Fields are working correctly
+2015-11-05 20:38:07 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 20:38:09 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 20:38:10 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationEmail
+2015-11-05 20:38:10 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-05 20:38:10 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-05 20:38:10 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-05 20:38:11 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-05 20:38:11 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-05 20:38:13 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-05 20:38:13 Page [INFO] - Registration Fields are working correctly
+2015-11-05 20:38:14 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-05 21:38:12 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-05 21:38:53 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-05 21:39:19 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-05 21:39:19 Page [INFO] - Start open page
+2015-11-05 21:39:45 Page [INFO] - Page open successful
+2015-11-05 21:39:57 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-05 21:40:16 Page [INFO] - SwitchTo Login Page was correct
+2015-11-05 21:40:16 WebElementsActions [INFO] - input - aksdjl@mail.ru, to  - EmailField
+2015-11-05 21:40:16 WebElementsActions [INFO] - click ButtonPassField
+2015-11-05 21:40:57 Log4Test [INFO] - INFO: "Finish Test Suite execution"

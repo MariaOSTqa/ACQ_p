@@ -1,0 +1,568 @@
+2015-11-20 03:55:45 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 03:55:45 Page [INFO] - Start open page
+2015-11-20 03:55:51 Page [INFO] - Page open successful
+2015-11-20 03:55:52 Page [ERROR] - SwitchTo Product Page was Incorrect
+2015-11-20 03:56:05 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 03:56:30 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 03:56:30 Page [INFO] - Start open page
+2015-11-20 03:56:33 Page [INFO] - Page open successful
+2015-11-20 03:56:34 Page [ERROR] - SwitchTo Product Page was Incorrect
+2015-11-20 03:56:34 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 03:57:22 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 03:57:22 Page [INFO] - Start open page
+2015-11-20 03:57:26 Page [INFO] - Page open successful
+2015-11-20 03:57:26 Page [ERROR] - SwitchTo Product Page was Incorrect
+2015-11-20 03:57:28 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 03:58:34 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 03:58:34 Page [INFO] - Start open page
+2015-11-20 03:58:38 Page [INFO] - Page open successful
+2015-11-20 03:58:38 Page [ERROR] - SwitchTo Product Page was Incorrect
+2015-11-20 03:58:39 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:00:19 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:00:19 Page [INFO] - Start open page
+2015-11-20 04:00:23 Page [INFO] - Page open successful
+2015-11-20 04:00:24 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-20 04:00:28 Page [INFO] - SwitchTo Login Page was correct
+2015-11-20 04:00:28 Page [ERROR] - SwitchTo Product Page was Incorrect
+2015-11-20 04:00:29 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:03:29 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:03:29 Page [INFO] - Start open page
+2015-11-20 04:03:35 Page [INFO] - Page open successful
+2015-11-20 04:03:36 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-20 04:03:39 Page [INFO] - SwitchTo Login Page was correct
+2015-11-20 04:03:39 Page [ERROR] - SwitchTo Product Page was Incorrect
+2015-11-20 04:03:40 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:04:49 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:04:49 Page [INFO] - Start open page
+2015-11-20 04:04:56 Page [INFO] - Page open successful
+2015-11-20 04:04:57 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-20 04:05:00 Page [INFO] - SwitchTo Login Page was correct
+2015-11-20 04:05:09 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:05:50 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:06:47 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:06:47 Page [INFO] - Start open page
+2015-11-20 04:06:53 Page [INFO] - Page open successful
+2015-11-20 04:06:53 Page [ERROR] - SwitchTo Product Page was Incorrect
+2015-11-20 04:06:54 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:07:39 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:07:39 Page [INFO] - Start open page
+2015-11-20 04:07:43 Page [INFO] - Page open successful
+2015-11-20 04:07:49 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:08:30 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:11:42 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:11:42 Page [INFO] - Start open page
+2015-11-20 04:11:47 Page [INFO] - Page open successful
+2015-11-20 04:11:53 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:11:53 WebElementsActions [INFO] - click ButtonLargerImageIcon
+2015-11-20 04:11:56 Page [INFO] - SwitchTo Larger Image was correct
+2015-11-20 04:11:57 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:13:23 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:13:23 Page [INFO] - Start open page
+2015-11-20 04:13:27 Page [INFO] - Page open successful
+2015-11-20 04:13:37 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:13:38 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:13:38 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:14:21 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:16:42 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:16:42 Page [INFO] - Start open page
+2015-11-20 04:16:47 Page [INFO] - Page open successful
+2015-11-20 04:16:52 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:16:53 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:16:53 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:17:37 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:18:52 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:18:52 Page [INFO] - Start open page
+2015-11-20 04:18:56 Page [INFO] - Page open successful
+2015-11-20 04:19:01 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:19:43 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:20:48 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:20:48 Page [INFO] - Start open page
+2015-11-20 04:20:53 Page [INFO] - Page open successful
+2015-11-20 04:20:59 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:20:59 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:21:00 WebElementsActions [INFO] - click ButtonChooseSize34
+2015-11-20 04:21:00 WebElementsActions [INFO] - textArticleSvart
+2015-11-20 04:21:00 Page [ERROR] - The Incorrect product number for ColorSvart
+2015-11-20 04:21:01 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:21:48 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:21:48 Page [INFO] - Start open page
+2015-11-20 04:21:52 Page [INFO] - Page open successful
+2015-11-20 04:21:58 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:21:58 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:21:59 WebElementsActions [INFO] - click ButtonChooseSize36
+2015-11-20 04:21:59 WebElementsActions [INFO] - textArticleSvart
+2015-11-20 04:21:59 Page [ERROR] - The Incorrect product number for ColorSvart
+2015-11-20 04:22:01 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:23:50 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:23:50 Page [INFO] - Start open page
+2015-11-20 04:23:54 Page [INFO] - Page open successful
+2015-11-20 04:23:59 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:24:02 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:24:02 WebElementsActions [INFO] - click ButtonChooseSize36
+2015-11-20 04:24:33 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:25:33 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:25:33 Page [INFO] - Start open page
+2015-11-20 04:25:36 Page [INFO] - Page open successful
+2015-11-20 04:25:42 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:25:43 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:25:43 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:25:44 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:25:44 WebElementsActions [INFO] - click ButtonChooseSize36
+2015-11-20 04:25:44 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:25:44 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:25:44 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:25:45 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:25:45 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:25:45 WebElementsActions [INFO] - click ButtonChooseSize38
+2015-11-20 04:25:46 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:25:46 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:25:46 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:25:46 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:25:47 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:25:47 WebElementsActions [INFO] - click ButtonChooseSize40
+2015-11-20 04:25:47 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:25:47 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:25:47 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:25:48 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:25:48 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:25:48 WebElementsActions [INFO] - click ButtonChooseSize42
+2015-11-20 04:25:48 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:25:48 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:25:49 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:25:49 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:25:50 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:25:50 WebElementsActions [INFO] - click ButtonChooseSize44
+2015-11-20 04:25:50 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:25:50 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:25:50 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:25:51 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:25:51 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:25:51 WebElementsActions [INFO] - click ButtonChooseSize46
+2015-11-20 04:25:52 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:25:52 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:25:52 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:25:52 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:25:53 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:25:53 WebElementsActions [INFO] - click ButtonChooseSize50
+2015-11-20 04:25:53 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:25:53 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:25:53 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:25:53 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:25:54 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:26:36 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:31:17 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:31:17 Page [INFO] - Start open page
+2015-11-20 04:31:21 Page [INFO] - Page open successful
+2015-11-20 04:31:27 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:31:27 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:31:28 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:31:28 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:31:29 WebElementsActions [INFO] - click ButtonChooseSize36
+2015-11-20 04:31:29 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:31:29 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:31:29 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:31:29 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:31:30 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:31:30 WebElementsActions [INFO] - click ButtonChooseSize38
+2015-11-20 04:31:30 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:31:30 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:31:30 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:31:31 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:31:31 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:31:31 WebElementsActions [INFO] - click ButtonChooseSize40
+2015-11-20 04:31:32 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:31:32 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:31:32 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:31:32 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:31:33 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:31:33 WebElementsActions [INFO] - click ButtonChooseSize42
+2015-11-20 04:31:33 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:31:33 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:31:33 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:31:34 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:31:34 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:31:34 WebElementsActions [INFO] - click ButtonChooseSize44
+2015-11-20 04:31:35 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:31:35 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:31:35 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:31:35 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:31:36 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:31:36 WebElementsActions [INFO] - click ButtonChooseSize46
+2015-11-20 04:31:36 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:31:36 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:31:36 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:31:37 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 04:31:37 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:31:37 WebElementsActions [INFO] - click ButtonChooseSize50
+2015-11-20 04:31:38 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 04:31:38 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 04:31:39 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:32:09 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:33:20 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:33:20 Page [INFO] - Start open page
+2015-11-20 04:33:25 Page [INFO] - Page open successful
+2015-11-20 04:33:30 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:33:31 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:33:31 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:33:32 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:33:32 WebElementsActions [INFO] - click ButtonChooseSize34
+2015-11-20 04:33:32 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:33:32 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:33:33 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:33:33 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:33:33 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:33:34 WebElementsActions [INFO] - click ButtonChooseSize36
+2015-11-20 04:33:34 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:33:34 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:33:34 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:33:34 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:33:35 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:33:35 WebElementsActions [INFO] - click ButtonChooseSize38
+2015-11-20 04:33:35 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:33:35 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:33:35 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:33:36 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:33:36 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:33:37 WebElementsActions [INFO] - click ButtonChooseSize40
+2015-11-20 04:33:37 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:33:37 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:33:37 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:33:37 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:33:38 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:33:38 WebElementsActions [INFO] - click ButtonChooseSize42
+2015-11-20 04:33:38 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:33:38 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:33:39 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:33:39 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:33:39 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:33:40 WebElementsActions [INFO] - click ButtonChooseSize44
+2015-11-20 04:33:40 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:33:40 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:33:40 RetryExec [INFO] - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:7055: Permission denied: connect
+2015-11-20 04:33:40 RetryExec [INFO] - Retrying request to {}->http://127.0.0.1:7055
+2015-11-20 04:33:40 RetryExec [INFO] - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:7055: Permission denied: connect
+2015-11-20 04:33:40 RetryExec [INFO] - Retrying request to {}->http://127.0.0.1:7055
+2015-11-20 04:33:40 RetryExec [INFO] - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:7055: Permission denied: connect
+2015-11-20 04:33:40 RetryExec [INFO] - Retrying request to {}->http://127.0.0.1:7055
+2015-11-20 04:33:40 RetryExec [INFO] - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:7055: Permission denied: connect
+2015-11-20 04:33:40 RetryExec [INFO] - Retrying request to {}->http://127.0.0.1:7055
+2015-11-20 04:33:40 RetryExec [INFO] - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:7055: Permission denied: connect
+2015-11-20 04:33:40 RetryExec [INFO] - Retrying request to {}->http://127.0.0.1:7055
+2015-11-20 04:33:40 RetryExec [INFO] - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:7055: Permission denied: connect
+2015-11-20 04:33:40 RetryExec [INFO] - Retrying request to {}->http://127.0.0.1:7055
+2015-11-20 04:35:25 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:35:25 Page [INFO] - Start open page
+2015-11-20 04:35:30 Page [INFO] - Page open successful
+2015-11-20 04:35:36 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:35:37 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:35:37 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:35:38 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:35:38 WebElementsActions [INFO] - click ButtonChooseSize34
+2015-11-20 04:35:38 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:35:38 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:35:38 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:35:39 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:35:39 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:35:39 WebElementsActions [INFO] - click ButtonChooseSize36
+2015-11-20 04:35:39 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:35:39 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:35:40 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:35:40 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:35:40 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:35:41 WebElementsActions [INFO] - click ButtonChooseSize38
+2015-11-20 04:35:41 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:35:41 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:35:41 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:35:42 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:35:42 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:35:42 WebElementsActions [INFO] - click ButtonChooseSize40
+2015-11-20 04:35:43 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:35:43 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:35:43 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:35:43 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:35:44 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:35:44 WebElementsActions [INFO] - click ButtonChooseSize42
+2015-11-20 04:35:44 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:35:44 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:35:44 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:35:45 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:35:45 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:35:45 WebElementsActions [INFO] - click ButtonChooseSize44
+2015-11-20 04:35:46 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:35:46 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:35:46 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:35:46 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:35:47 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:35:47 WebElementsActions [INFO] - click ButtonChooseSize46
+2015-11-20 04:35:47 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:35:47 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:35:47 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 04:35:48 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 04:35:48 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 04:35:49 WebElementsActions [INFO] - click ButtonChooseSize50
+2015-11-20 04:35:49 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 04:35:49 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 04:35:50 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:38:57 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:38:57 Page [INFO] - Start open page
+2015-11-20 04:39:01 Page [INFO] - Page open successful
+2015-11-20 04:39:06 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:39:07 WebElementsActions [INFO] - click ButtonProductDescriptionLink
+2015-11-20 04:39:07 Page [INFO] - The correct ProductDescription
+2015-11-20 04:39:07 WebElementsActions [INFO] - click ButtonReviewsLink
+2015-11-20 04:39:08 Page [INFO] - The correct ReviewsLink
+2015-11-20 04:39:08 WebElementsActions [INFO] - click ButtonShippingLink
+2015-11-20 04:39:08 Page [INFO] - The correct ShippingLink
+2015-11-20 04:39:09 WebElementsActions [INFO] - click ButtonSizeLink
+2015-11-20 04:39:09 Page [INFO] - The correct SizeLink
+2015-11-20 04:39:50 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:41:56 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:41:56 Page [INFO] - Start open page
+2015-11-20 04:42:00 Page [INFO] - Page open successful
+2015-11-20 04:42:05 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:42:06 WebElementsActions [INFO] - click ButtonProductDescriptionLink
+2015-11-20 04:42:06 Page [INFO] - The correct ProductDescription
+2015-11-20 04:42:07 WebElementsActions [INFO] - click ButtonReviewsLink
+2015-11-20 04:42:07 Page [INFO] - The correct ReviewsLink
+2015-11-20 04:42:07 WebElementsActions [INFO] - click ButtonShippingLink
+2015-11-20 04:42:08 Page [INFO] - The correct ShippingLink
+2015-11-20 04:42:08 WebElementsActions [INFO] - click ButtonSizeLink
+2015-11-20 04:42:09 Page [INFO] - The correct SizeLink
+2015-11-20 04:42:21 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:42:51 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:42:51 Page [INFO] - Start open page
+2015-11-20 04:42:56 Page [INFO] - Page open successful
+2015-11-20 04:43:01 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:43:01 WebElementsActions [INFO] - click ButtonProductDescriptionLink
+2015-11-20 04:43:02 Page [INFO] - The correct ProductDescription
+2015-11-20 04:43:02 WebElementsActions [INFO] - click ButtonReviewsLink
+2015-11-20 04:43:02 Page [INFO] - The correct ReviewsLink
+2015-11-20 04:43:03 WebElementsActions [INFO] - click ButtonShippingLink
+2015-11-20 04:43:03 Page [INFO] - The correct ShippingLink
+2015-11-20 04:43:04 WebElementsActions [INFO] - click ButtonSizeLink
+2015-11-20 04:43:04 Page [INFO] - The correct SizeLink
+2015-11-20 04:43:45 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:44:41 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:44:41 Page [INFO] - Start open page
+2015-11-20 04:44:46 Page [INFO] - Page open successful
+2015-11-20 04:44:51 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:44:51 WebElementsActions [INFO] - click ButtonReviewsLink
+2015-11-20 04:44:52 Page [INFO] - The correct ReviewsLink
+2015-11-20 04:44:52 WebElementsActions [INFO] - click ButtonShippingLink
+2015-11-20 04:44:53 Page [INFO] - The correct ShippingLink
+2015-11-20 04:44:53 WebElementsActions [INFO] - click ButtonSizeLink
+2015-11-20 04:44:54 Page [INFO] - The correct SizeLink
+2015-11-20 04:45:35 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:47:48 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:47:48 Page [INFO] - Start open page
+2015-11-20 04:47:54 Page [INFO] - Page open successful
+2015-11-20 04:47:59 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:48:00 WebElementsActions [INFO] - click ButtonReviewsLink
+2015-11-20 04:48:00 Page [INFO] - The correct ReviewsLink
+2015-11-20 04:48:01 WebElementsActions [INFO] - click ButtonShippingLink
+2015-11-20 04:48:01 Page [INFO] - The correct ShippingLink
+2015-11-20 04:48:02 WebElementsActions [INFO] - click ButtonSizeLink
+2015-11-20 04:48:02 Page [INFO] - The correct SizeLink
+2015-11-20 04:48:43 WebElementsActions [INFO] - click ButtonProductDescriptionLink
+2015-11-20 04:48:43 Page [INFO] - The correct ProductDescription
+2015-11-20 04:48:43 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:49:12 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:49:12 Page [INFO] - Start open page
+2015-11-20 04:49:19 Page [INFO] - Page open successful
+2015-11-20 04:49:25 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:49:25 WebElementsActions [INFO] - click ButtonReviewsLink
+2015-11-20 04:49:25 Page [INFO] - The correct ReviewsLink
+2015-11-20 04:49:26 WebElementsActions [INFO] - click ButtonShippingLink
+2015-11-20 04:49:26 Page [INFO] - The correct ShippingLink
+2015-11-20 04:49:27 WebElementsActions [INFO] - click ButtonSizeLink
+2015-11-20 04:49:27 Page [INFO] - The correct SizeLink
+2015-11-20 04:50:08 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:52:50 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:52:50 Page [INFO] - Start open page
+2015-11-20 04:52:55 Page [INFO] - Page open successful
+2015-11-20 04:53:01 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:53:01 WebElementsActions [INFO] - click ButtonReviewsLink
+2015-11-20 04:53:01 Page [INFO] - The correct ReviewsLink
+2015-11-20 04:53:02 WebElementsActions [INFO] - click ButtonShippingLink
+2015-11-20 04:53:02 Page [INFO] - The correct ShippingLink
+2015-11-20 04:53:03 WebElementsActions [INFO] - click ButtonSizeLink
+2015-11-20 04:53:03 Page [INFO] - The correct SizeLink
+2015-11-20 04:53:03 WebElementsActions [INFO] - click ButtonProductDescriptionLink
+2015-11-20 04:53:04 Page [INFO] - The correct ProductDescription
+2015-11-20 04:53:05 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 04:53:36 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 04:53:36 Page [INFO] - Start open page
+2015-11-20 04:53:42 Page [INFO] - Page open successful
+2015-11-20 04:53:47 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 04:53:48 WebElementsActions [INFO] - click ButtonReviewsLink
+2015-11-20 04:53:48 Page [INFO] - The correct ReviewsLink
+2015-11-20 04:53:48 WebElementsActions [INFO] - click ButtonShippingLink
+2015-11-20 04:53:49 Page [INFO] - The correct ShippingLink
+2015-11-20 04:53:49 WebElementsActions [INFO] - click ButtonSizeLink
+2015-11-20 04:53:50 Page [INFO] - The correct SizeLink
+2015-11-20 04:53:50 WebElementsActions [INFO] - click ButtonProductDescriptionLink
+2015-11-20 04:53:51 Page [INFO] - The correct ProductDescription
+2015-11-20 04:53:52 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 05:12:39 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 05:12:39 Page [INFO] - Start open page
+2015-11-20 05:12:44 Page [INFO] - Page open successful
+2015-11-20 05:12:51 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 05:12:52 WebElementsActions [INFO] - click ButtonLargerImageLink
+2015-11-20 05:12:53 Page [INFO] - SwitchTo Larger Image was correct
+2015-11-20 05:12:58 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 05:12:58 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:12:59 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 05:12:59 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:00 WebElementsActions [INFO] - click ButtonChooseSize36
+2015-11-20 05:13:00 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 05:13:00 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 05:13:00 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:00 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 05:13:01 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:01 WebElementsActions [INFO] - click ButtonChooseSize38
+2015-11-20 05:13:01 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 05:13:01 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 05:13:02 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:02 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 05:13:03 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:03 WebElementsActions [INFO] - click ButtonChooseSize40
+2015-11-20 05:13:03 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 05:13:03 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 05:13:03 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:04 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 05:13:04 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:04 WebElementsActions [INFO] - click ButtonChooseSize42
+2015-11-20 05:13:05 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 05:13:05 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 05:13:05 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:05 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 05:13:06 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:06 WebElementsActions [INFO] - click ButtonChooseSize44
+2015-11-20 05:13:06 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 05:13:06 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 05:13:07 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:07 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 05:13:07 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:08 WebElementsActions [INFO] - click ButtonChooseSize46
+2015-11-20 05:13:08 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 05:13:08 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 05:13:08 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:08 WebElementsActions [INFO] - click ButtonChooseColorSvart
+2015-11-20 05:13:09 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:09 WebElementsActions [INFO] - click ButtonChooseSize50
+2015-11-20 05:13:09 WebElementsActions [INFO] - textArticle398-4006
+2015-11-20 05:13:09 Page [INFO] - The correct product number for ColorSvart
+2015-11-20 05:13:14 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 05:13:14 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:15 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 05:13:15 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:16 WebElementsActions [INFO] - click ButtonChooseSize34
+2015-11-20 05:13:16 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 05:13:16 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 05:13:16 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:16 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 05:13:17 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:17 WebElementsActions [INFO] - click ButtonChooseSize36
+2015-11-20 05:13:17 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 05:13:17 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 05:13:18 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:18 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 05:13:19 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:19 WebElementsActions [INFO] - click ButtonChooseSize38
+2015-11-20 05:13:19 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 05:13:19 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 05:13:19 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:20 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 05:13:20 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:20 WebElementsActions [INFO] - click ButtonChooseSize40
+2015-11-20 05:13:20 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 05:13:20 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 05:13:21 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:21 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 05:13:21 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:22 WebElementsActions [INFO] - click ButtonChooseSize42
+2015-11-20 05:13:22 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 05:13:22 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 05:13:22 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:22 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 05:13:23 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:23 WebElementsActions [INFO] - click ButtonChooseSize44
+2015-11-20 05:13:23 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 05:13:23 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 05:13:24 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:24 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 05:13:24 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:25 WebElementsActions [INFO] - click ButtonChooseSize46
+2015-11-20 05:13:25 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 05:13:25 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 05:13:25 WebElementsActions [INFO] - click ButtonFieldColorButton
+2015-11-20 05:13:26 WebElementsActions [INFO] - click ButtonChooseColorVinmelange
+2015-11-20 05:13:26 WebElementsActions [INFO] - click ButtonFieldSizeButton
+2015-11-20 05:13:27 WebElementsActions [INFO] - click ButtonChooseSize50
+2015-11-20 05:13:27 WebElementsActions [INFO] - textArticle398-4014
+2015-11-20 05:13:27 Page [INFO] - The correct product number for ColorVinmelange
+2015-11-20 05:13:32 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 05:13:32 WebElementsActions [INFO] - click ButtonReviewsLink
+2015-11-20 05:13:32 Page [INFO] - The correct ReviewsLink
+2015-11-20 05:13:33 WebElementsActions [INFO] - click ButtonShippingLink
+2015-11-20 05:13:33 Page [INFO] - The correct ShippingLink
+2015-11-20 05:13:34 WebElementsActions [INFO] - click ButtonSizeLink
+2015-11-20 05:13:34 Page [INFO] - The correct SizeLink
+2015-11-20 05:13:35 WebElementsActions [INFO] - click ButtonProductDescriptionLink
+2015-11-20 05:13:35 Page [INFO] - The correct ProductDescription
+2015-11-20 05:13:37 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 06:30:33 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 06:30:33 Page [INFO] - Start open page
+2015-11-20 06:30:38 Page [INFO] - Page open successful
+2015-11-20 06:30:43 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 06:31:29 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 06:32:14 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 06:33:00 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 06:33:01 WebElementsActions [INFO] - click ButtonCustomerServiceLink
+2015-11-20 06:33:02 Page [INFO] - Switching to CustomerServicePage successfully
+2015-11-20 06:33:03 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 06:34:47 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 06:34:47 Page [INFO] - Start open page
+2015-11-20 06:34:53 Page [INFO] - Page open successful
+2015-11-20 06:34:58 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 06:35:21 WebElementsActions [INFO] - click ButtonCreditPayInsureLink
+2015-11-20 06:35:22 WebElementsActions [INFO] - click ButtonCreditLink
+2015-11-20 06:35:24 WebElementsActions [INFO] - textCreditPageEllos Privatlån
+2015-11-20 06:35:24 Page [INFO] - Switching to CreditPage successfully
+2015-11-20 06:35:25 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 06:35:46 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 06:35:46 Page [INFO] - Start open page
+2015-11-20 06:35:51 Page [INFO] - Page open successful
+2015-11-20 06:35:56 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 06:36:38 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 06:40:12 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 06:40:12 Page [INFO] - Start open page
+2015-11-20 06:40:18 Page [INFO] - Page open successful
+2015-11-20 06:40:23 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 06:40:24 WebElementsActions [INFO] - click ButtonCreditPayInsureLink
+2015-11-20 06:40:25 WebElementsActions [INFO] - click ButtonCreditLink
+2015-11-20 06:40:26 WebElementsActions [INFO] - textCreditPageEllos Privatlån
+2015-11-20 06:40:26 Page [INFO] - Switching to CreditPage successfully
+2015-11-20 06:40:28 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-20 06:41:27 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-20 06:41:27 Page [INFO] - Start open page
+2015-11-20 06:41:33 Page [INFO] - Page open successful
+2015-11-20 06:41:38 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 06:41:39 WebElementsActions [INFO] - click ButtonCreditPayInsureLink
+2015-11-20 06:41:40 WebElementsActions [INFO] - click ButtonCreditLink
+2015-11-20 06:41:42 WebElementsActions [INFO] - textCreditPageEllos Privatlån
+2015-11-20 06:41:42 Page [INFO] - Switching to CreditPage successfully
+2015-11-20 06:41:47 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 06:41:47 WebElementsActions [INFO] - click ButtonCreditPayInsureLink
+2015-11-20 06:41:48 WebElementsActions [INFO] - click ButtonPayLink
+2015-11-20 06:41:50 WebElementsActions [INFO] - textPayPageFyra sätt att betala
+2015-11-20 06:41:50 Page [INFO] - Switching to PayPage successfully
+2015-11-20 06:41:55 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 06:41:55 WebElementsActions [INFO] - click ButtonCreditPayInsureLink
+2015-11-20 06:41:56 WebElementsActions [INFO] - click ButtonInsureLink
+2015-11-20 06:41:58 WebElementsActions [INFO] - textInsurePageFörsäkringar
+2015-11-20 06:41:58 Page [INFO] - Switching to InsurePage successfully
+2015-11-20 06:42:03 Page [INFO] - SwitchTo Product Page was correct
+2015-11-20 06:42:04 WebElementsActions [INFO] - click ButtonCustomerServiceLink
+2015-11-20 06:42:06 Page [INFO] - Switching to CustomerServicePage successfully
+2015-11-20 06:42:07 Log4Test [INFO] - INFO: "Finish Test Suite execution"

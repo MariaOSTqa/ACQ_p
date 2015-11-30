@@ -1,0 +1,836 @@
+2015-11-18 13:55:21 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 13:55:22 Page [INFO] - Start open page
+2015-11-18 13:55:36 Page [INFO] - Page open successful
+2015-11-18 13:55:47 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 13:55:53 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 13:55:53 WebElementsActions [INFO] - input - aksdjl@mail.ru, to  - EmailField
+2015-11-18 13:55:55 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 13:55:55 WebElementsActions [INFO] - input - , to  - PassFieldInput
+2015-11-18 13:56:40 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 14:00:08 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 14:00:08 Page [INFO] - Start open page
+2015-11-18 14:00:12 Page [INFO] - Page open successful
+2015-11-18 14:00:17 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 14:00:21 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 14:00:21 WebElementsActions [INFO] - input - aksdjl@mail.ru, to  - EmailField
+2015-11-18 14:00:22 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 14:00:22 WebElementsActions [INFO] - input - dafjhl, to  - PassFieldInput
+2015-11-18 14:00:23 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-18 14:00:24 Page [INFO] - Correct error message
+2015-11-18 14:00:26 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 14:01:00 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 14:01:00 Page [INFO] - Start open page
+2015-11-18 14:01:05 Page [INFO] - Page open successful
+2015-11-18 14:01:10 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 14:01:13 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 14:01:13 WebElementsActions [INFO] - input - aksdjl@mail.ru, to  - EmailField
+2015-11-18 14:01:16 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 14:01:16 WebElementsActions [INFO] - input - , to  - PassFieldInput
+2015-11-18 14:01:16 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-18 14:01:16 WebElementsActions [INFO] - textEmptyEmailOrPass*Måste ange ett lösenord.
+2015-11-18 14:01:16 Page [ERROR] - Incorrect error message
+2015-11-18 14:01:17 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 14:02:56 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 14:02:56 Page [INFO] - Start open page
+2015-11-18 14:03:01 Page [INFO] - Page open successful
+2015-11-18 14:03:07 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 14:03:11 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 14:03:11 WebElementsActions [INFO] - input - aksdjl@mail.ru, to  - EmailField
+2015-11-18 14:03:13 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 14:03:13 WebElementsActions [INFO] - input - , to  - PassFieldInput
+2015-11-18 14:03:13 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-18 14:03:13 WebElementsActions [INFO] - textEmptyEmailOrPass*Måste ange ett lösenord.
+2015-11-18 14:03:13 Page [INFO] - Correct error message
+2015-11-18 14:03:14 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 14:07:17 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 14:07:17 Page [INFO] - Start open page
+2015-11-18 14:07:26 Page [INFO] - Page open successful
+2015-11-18 14:07:33 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 14:07:39 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 14:07:39 WebElementsActions [INFO] - input - , to  - EmailField
+2015-11-18 14:07:40 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 14:07:40 WebElementsActions [INFO] - input - , to  - PassFieldInput
+2015-11-18 14:07:40 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-18 14:07:40 WebElementsActions [INFO] - textEmptyEmailOrPass*Måste ange ett användarnamn.
+*Måste ange ett lösenord.
+2015-11-18 14:07:40 Page [ERROR] - Incorrect error message
+2015-11-18 14:07:41 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 14:08:29 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 14:08:29 Page [INFO] - Start open page
+2015-11-18 14:08:33 Page [INFO] - Page open successful
+2015-11-18 14:08:39 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 14:08:42 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 14:08:42 WebElementsActions [INFO] - input - , to  - EmailField
+2015-11-18 14:08:43 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 14:08:43 WebElementsActions [INFO] - input - , to  - PassFieldInput
+2015-11-18 14:08:43 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-18 14:08:43 WebElementsActions [INFO] - textEmptyEmailOrPass*Måste ange ett användarnamn.
+*Måste ange ett lösenord.
+2015-11-18 14:08:43 Page [INFO] - Correct error message
+2015-11-18 14:08:44 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 15:41:00 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 15:41:00 Page [INFO] - Start open page
+2015-11-18 15:41:04 Page [INFO] - Page open successful
+2015-11-18 15:41:15 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 15:41:19 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 15:41:19 WebElementsActions [INFO] - input - lola23@mail.ru, to  - RegistrationEmail
+2015-11-18 15:41:21 WebElementsActions [INFO] - input - lola23@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 15:41:21 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 15:41:21 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-18 15:41:21 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 15:41:21 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-18 15:41:24 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 15:41:24 Page [INFO] - Registration Fields are working correctly
+2015-11-18 15:41:25 WebElementsActions [INFO] - click ButtonLogOut
+2015-11-18 15:41:26 Page [INFO] - SwitchTo LogOut was correct
+2015-11-18 15:41:27 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 15:41:29 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 15:41:30 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationEmail
+2015-11-18 15:41:30 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 15:41:30 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 15:41:30 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-18 15:41:30 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 15:41:31 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-18 15:41:32 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 15:41:32 WebElementsActions [INFO] - textInvalidRegistration* E-postadressen är redan registerad.
+2015-11-18 15:41:32 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 15:41:33 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 15:41:35 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 15:41:35 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationEmail
+2015-11-18 15:41:36 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 15:41:36 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 15:41:36 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-18 15:41:36 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 15:41:36 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-18 15:41:36 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 15:41:37 WebElementsActions [INFO] - textEmptyRegFields*Du har inte valt ett lösenord.
+*Bekräfta lösenord
+2015-11-18 15:41:37 Page [INFO] - Registration: Correct error message
+2015-11-18 15:41:37 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 15:41:39 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 15:41:40 WebElementsActions [INFO] - input - @mail.ru, to  - RegistrationEmail
+2015-11-18 15:41:40 WebElementsActions [INFO] - input - @mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 15:41:40 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 15:41:40 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-18 15:41:41 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 15:41:41 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-18 15:41:43 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 15:41:43 WebElementsActions [INFO] - textInvalidRegistration* Felaktig e-postadress
+2015-11-18 15:41:43 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 15:41:44 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 15:41:47 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 15:41:48 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationEmail
+2015-11-18 15:41:48 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 15:41:48 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 15:41:48 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-18 15:41:49 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 15:41:49 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-18 15:41:51 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 15:41:51 WebElementsActions [INFO] - textInvalidRegistration* Felaktig e-postadress
+2015-11-18 15:41:51 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 15:41:52 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 15:43:48 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 15:43:48 Page [INFO] - Start open page
+2015-11-18 15:43:52 Page [INFO] - Page open successful
+2015-11-18 15:43:57 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 15:44:00 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 15:44:01 WebElementsActions [INFO] - input - lola24@mail.ru, to  - RegistrationEmail
+2015-11-18 15:44:02 WebElementsActions [INFO] - input - lola24@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 15:44:02 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 15:44:02 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-18 15:44:02 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 15:44:03 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-18 15:44:06 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 15:44:06 Page [INFO] - Registration Fields are working correctly
+2015-11-18 15:44:06 WebElementsActions [INFO] - click ButtonLogOut
+2015-11-18 15:44:08 Page [INFO] - SwitchTo LogOut was correct
+2015-11-18 15:44:09 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 15:44:11 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 15:44:11 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationEmail
+2015-11-18 15:44:11 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 15:44:11 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 15:44:12 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-18 15:44:12 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 15:44:12 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-18 15:44:14 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 15:44:14 WebElementsActions [INFO] - textInvalidRegistration* E-postadressen är redan registerad.
+2015-11-18 15:44:14 Page [INFO] - Registration: Correct error message
+2015-11-18 15:44:15 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 15:44:17 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 15:44:17 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationEmail
+2015-11-18 15:44:17 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 15:44:18 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 15:44:18 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-18 15:44:18 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 15:44:18 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-18 15:44:18 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 15:44:18 WebElementsActions [INFO] - textEmptyRegFields*Du har inte valt ett lösenord.
+*Bekräfta lösenord
+2015-11-18 15:44:18 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 15:44:19 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 15:44:21 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 15:44:22 WebElementsActions [INFO] - input - @mail.ru, to  - RegistrationEmail
+2015-11-18 15:44:22 WebElementsActions [INFO] - input - @mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 15:44:22 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 15:44:22 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-18 15:44:22 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 15:44:23 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-18 15:44:24 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 15:44:24 WebElementsActions [INFO] - textInvalidRegistration* Felaktig e-postadress
+2015-11-18 15:44:24 Page [INFO] - Registration: Correct error message
+2015-11-18 15:44:25 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 15:44:27 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 15:44:27 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationEmail
+2015-11-18 15:44:28 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 15:44:28 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 15:44:28 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-18 15:44:28 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 15:44:28 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-18 15:44:30 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 15:44:30 WebElementsActions [INFO] - textInvalidRegistration* Felaktig e-postadress
+2015-11-18 15:44:30 Page [INFO] - Registration: Correct error message
+2015-11-18 15:44:31 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 16:00:14 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 16:00:14 Page [INFO] - Start open page
+2015-11-18 16:00:19 Page [INFO] - Page open successful
+2015-11-18 16:00:25 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 16:00:29 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 16:00:30 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationEmail
+2015-11-18 16:00:31 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 16:00:31 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 16:00:31 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-18 16:00:31 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 16:00:31 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-18 16:00:33 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 16:00:33 WebElementsActions [INFO] - textInvalidRegistration* E-postadressen är redan registerad.
+2015-11-18 16:00:33 Page [INFO] - Registration: Correct error message
+2015-11-18 16:00:34 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 16:02:27 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 16:02:27 Page [INFO] - Start open page
+2015-11-18 16:02:32 Page [INFO] - Page open successful
+2015-11-18 16:02:38 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 16:02:43 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 16:02:44 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationEmail
+2015-11-18 16:02:45 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 16:02:45 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 16:02:45 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-18 16:02:45 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 16:02:46 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-18 16:02:48 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 16:02:48 WebElementsActions [INFO] - textInvalidRegistration* E-postadressen är redan registerad.
+2015-11-18 16:02:48 Page [INFO] - Registration: Correct error message
+2015-11-18 16:02:49 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 16:03:22 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 16:03:22 Page [INFO] - Start open page
+2015-11-18 16:03:27 Page [INFO] - Page open successful
+2015-11-18 16:03:32 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 16:03:37 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 16:03:37 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationEmail
+2015-11-18 16:03:38 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 16:03:38 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 16:03:39 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-18 16:03:39 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 16:03:39 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-18 16:03:39 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 16:03:39 WebElementsActions [INFO] - textEmptyRegFields*Du har inte valt ett lösenord.
+*Bekräfta lösenord
+2015-11-18 16:03:39 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 16:03:40 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 16:04:36 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 16:04:36 Page [INFO] - Start open page
+2015-11-18 16:04:40 Page [INFO] - Page open successful
+2015-11-18 16:04:45 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 16:04:50 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 16:04:51 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationEmail
+2015-11-18 16:04:52 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 16:04:52 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 16:04:52 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-18 16:04:52 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 16:04:52 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-18 16:04:53 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 16:04:53 WebElementsActions [INFO] - textEmptyRegFields*Du har inte valt ett lösenord.
+*Bekräfta lösenord
+2015-11-18 16:04:53 Page [INFO] - Registration: Correct error message
+2015-11-18 16:04:54 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 16:05:59 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 16:05:59 Page [INFO] - Start open page
+2015-11-18 16:06:03 Page [INFO] - Page open successful
+2015-11-18 16:06:09 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 16:06:16 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 16:06:17 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationEmail
+2015-11-18 16:06:18 WebElementsActions [INFO] - input - lola55@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 16:06:18 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 16:06:18 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-18 16:06:18 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 16:06:18 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-18 16:06:18 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 16:06:19 WebElementsActions [INFO] - textEmptyRegFields*Du har inte valt ett lösenord.
+*Bekräfta lösenord
+2015-11-18 16:06:19 Page [INFO] - Registration: Correct error message
+2015-11-18 16:06:19 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 16:07:05 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 16:07:06 Page [INFO] - Start open page
+2015-11-18 16:07:10 Page [INFO] - Page open successful
+2015-11-18 16:07:17 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 16:07:20 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 16:07:21 WebElementsActions [INFO] - input - @mail.ru, to  - RegistrationEmail
+2015-11-18 16:07:22 WebElementsActions [INFO] - input - @mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 16:07:22 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 16:07:22 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-18 16:07:22 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 16:07:23 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-18 16:07:24 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 16:07:24 WebElementsActions [INFO] - textInvalidRegistration* Felaktig e-postadress
+2015-11-18 16:07:24 Page [INFO] - Registration: Correct error message
+2015-11-18 16:07:25 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 16:08:00 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 16:08:00 Page [INFO] - Start open page
+2015-11-18 16:08:04 Page [INFO] - Page open successful
+2015-11-18 16:08:09 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 16:08:14 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 16:08:15 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationEmail
+2015-11-18 16:08:18 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 16:08:18 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 16:08:18 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-18 16:08:19 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 16:08:19 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-18 16:08:21 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 16:08:21 WebElementsActions [INFO] - textInvalidRegistration* Felaktig e-postadress
+2015-11-18 16:08:21 Page [INFO] - Registration: Correct error message
+2015-11-18 16:08:22 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:28:37 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:28:37 Page [INFO] - Start open page
+2015-11-18 17:28:41 Page [INFO] - Page open successful
+2015-11-18 17:28:47 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:28:51 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:28:51 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationEmail
+2015-11-18 17:28:52 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:28:52 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:28:52 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-18 17:28:52 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:28:53 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-18 17:28:54 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:28:54 WebElementsActions [INFO] - textInvalidRegistration* Felaktig e-postadress
+2015-11-18 17:28:54 Page [INFO] - Registration: Correct error message
+2015-11-18 17:28:56 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:29:29 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:29:29 Page [INFO] - Start open page
+2015-11-18 17:29:33 Page [INFO] - Page open successful
+2015-11-18 17:29:39 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:29:43 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:29:43 WebElementsActions [INFO] - input - , to  - RegistrationEmail
+2015-11-18 17:29:44 WebElementsActions [INFO] - input - , to  - RegistrationRepeatEmail
+2015-11-18 17:29:44 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:29:44 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-18 17:29:44 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:29:44 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-18 17:29:45 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:29:45 WebElementsActions [INFO] - textEmptyRegFields*Vänligen kontrollera stavningen i din e-postadress och försök igen.
+*Bekräfta e-post
+*Du har inte valt ett lösenord.
+*Bekräfta lösenord
+2015-11-18 17:29:45 Page [INFO] - Registration: Correct error message
+2015-11-18 17:29:46 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:30:20 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:30:20 Page [INFO] - Start open page
+2015-11-18 17:30:23 Page [INFO] - Page open successful
+2015-11-18 17:30:28 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:30:33 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:30:34 WebElementsActions [INFO] - input - , to  - RegistrationEmail
+2015-11-18 17:30:34 WebElementsActions [INFO] - input - , to  - RegistrationRepeatEmail
+2015-11-18 17:30:34 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:30:34 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-18 17:30:34 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:30:35 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-18 17:30:36 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:30:36 WebElementsActions [INFO] - textEmptyRegFields*Vänligen kontrollera stavningen i din e-postadress och försök igen.
+*Bekräfta e-post
+*Du har inte valt ett lösenord.
+2015-11-18 17:30:36 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 17:30:37 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:32:42 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:32:42 Page [INFO] - Start open page
+2015-11-18 17:32:46 Page [INFO] - Page open successful
+2015-11-18 17:32:52 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:32:59 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:33:02 WebElementsActions [INFO] - input - , to  - RegistrationEmail
+2015-11-18 17:33:02 WebElementsActions [INFO] - input - , to  - RegistrationRepeatEmail
+2015-11-18 17:33:02 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:33:02 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-18 17:33:02 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:33:03 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-18 17:33:08 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:33:09 WebElementsActions [INFO] - textEmptyRegFields*Vänligen kontrollera stavningen i din e-postadress och försök igen.
+*Bekräfta e-post
+*Du har inte valt ett lösenord.
+2015-11-18 17:33:09 Page [INFO] - Registration: Correct error message
+2015-11-18 17:33:10 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:33:40 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:33:40 Page [INFO] - Start open page
+2015-11-18 17:33:45 Page [INFO] - Page open successful
+2015-11-18 17:33:50 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:33:54 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:33:54 WebElementsActions [INFO] - input - , to  - RegistrationEmail
+2015-11-18 17:33:55 WebElementsActions [INFO] - input - , to  - RegistrationRepeatEmail
+2015-11-18 17:33:55 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:33:55 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-18 17:33:55 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:33:55 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-18 17:33:56 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:33:56 WebElementsActions [INFO] - textEmptyRegFields*Vänligen kontrollera stavningen i din e-postadress och försök igen.
+*Bekräfta e-post
+*Bekräfta lösenord
+2015-11-18 17:33:56 Page [INFO] - Registration: Correct error message
+2015-11-18 17:33:57 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:34:46 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:34:46 Page [INFO] - Start open page
+2015-11-18 17:34:51 Page [INFO] - Page open successful
+2015-11-18 17:34:56 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:35:00 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:35:00 WebElementsActions [INFO] - input - , to  - RegistrationEmail
+2015-11-18 17:35:00 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:35:02 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:35:02 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-18 17:35:02 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:35:02 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-18 17:35:03 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:35:03 WebElementsActions [INFO] - textEmptyRegFields*Vänligen kontrollera stavningen i din e-postadress och försök igen.
+*Du har inte valt ett lösenord.
+*Bekräfta lösenord
+2015-11-18 17:35:03 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 17:35:04 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:36:24 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:36:24 Page [INFO] - Start open page
+2015-11-18 17:36:50 Page [INFO] - Page open successful
+2015-11-18 17:36:56 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:36:59 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:37:00 WebElementsActions [INFO] - input - , to  - RegistrationEmail
+2015-11-18 17:37:00 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:37:01 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:37:01 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-18 17:37:01 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:37:02 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-18 17:37:02 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:37:02 WebElementsActions [INFO] - textEmptyRegFields*Vänligen kontrollera stavningen i din e-postadress och försök igen.
+*Du har inte valt ett lösenord.
+*Bekräfta lösenord
+2015-11-18 17:37:02 Page [INFO] - Registration: Correct error message
+2015-11-18 17:37:03 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:41:52 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:41:52 Page [INFO] - Start open page
+2015-11-18 17:41:56 Page [INFO] - Page open successful
+2015-11-18 17:42:01 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:42:05 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:42:05 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationEmail
+2015-11-18 17:42:07 WebElementsActions [INFO] - input - , to  - RegistrationRepeatEmail
+2015-11-18 17:42:07 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:42:07 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-18 17:42:07 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:42:08 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-18 17:42:08 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:42:08 WebElementsActions [INFO] - textEmptyRegFields*Bekräfta e-post
+*Du har inte valt ett lösenord.
+*Bekräfta lösenord
+2015-11-18 17:42:08 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 17:42:09 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:43:19 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:43:19 Page [INFO] - Start open page
+2015-11-18 17:43:25 Page [INFO] - Page open successful
+2015-11-18 17:43:32 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:43:36 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:43:37 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationEmail
+2015-11-18 17:43:38 WebElementsActions [INFO] - input - , to  - RegistrationRepeatEmail
+2015-11-18 17:43:38 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:43:38 WebElementsActions [INFO] - input - , to  - RegistrationPassInput
+2015-11-18 17:43:38 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:43:38 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-18 17:43:38 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:43:39 WebElementsActions [INFO] - textEmptyRegFields*Bekräfta e-post
+*Du har inte valt ett lösenord.
+*Bekräfta lösenord
+2015-11-18 17:43:39 Page [INFO] - Registration: Correct error message
+2015-11-18 17:43:39 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:44:15 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:44:15 Page [INFO] - Start open page
+2015-11-18 17:44:19 Page [INFO] - Page open successful
+2015-11-18 17:44:24 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:44:30 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:44:31 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationEmail
+2015-11-18 17:44:32 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:44:32 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:44:32 WebElementsActions [INFO] - input - 12345, to  - RegistrationPassInput
+2015-11-18 17:44:32 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:44:32 WebElementsActions [INFO] - input - , to  - RegistrationRepeatPassInput
+2015-11-18 17:44:33 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:44:33 WebElementsActions [INFO] - textEmptyRegFields*Bekräfta lösenord
+2015-11-18 17:44:33 Page [INFO] - Registration: Correct error message
+2015-11-18 17:44:33 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:45:06 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:45:06 Page [INFO] - Start open page
+2015-11-18 17:45:11 Page [INFO] - Page open successful
+2015-11-18 17:45:17 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:45:42 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:45:42 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationEmail
+2015-11-18 17:45:42 WebElementsActions [INFO] - input - lola@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:45:42 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:46:04 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-18 17:46:05 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:46:05 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-18 17:46:21 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:46:21 WebElementsActions [INFO] - textInvalidRegistration* E-post och bekräfta e-post överensstämmer inte
+2015-11-18 17:46:21 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 17:46:23 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:47:39 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:47:39 Page [INFO] - Start open page
+2015-11-18 17:47:43 Page [INFO] - Page open successful
+2015-11-18 17:47:48 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:47:53 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:47:53 WebElementsActions [INFO] - input - lola13@mail.ru, to  - RegistrationEmail
+2015-11-18 17:47:54 WebElementsActions [INFO] - input - lola@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:47:55 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:47:55 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-18 17:47:55 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:47:55 WebElementsActions [INFO] - input - qwerty, to  - RegistrationRepeatPassInput
+2015-11-18 17:47:57 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:47:57 WebElementsActions [INFO] - textInvalidRegistration* E-post och bekräfta e-post överensstämmer inte
+2015-11-18 17:47:57 Page [INFO] - Registration: Correct error message
+2015-11-18 17:47:58 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:48:37 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:48:37 Page [INFO] - Start open page
+2015-11-18 17:48:41 Page [INFO] - Page open successful
+2015-11-18 17:48:45 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:48:49 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:48:51 WebElementsActions [INFO] - input - lola111@mail.ru, to  - RegistrationEmail
+2015-11-18 17:48:51 WebElementsActions [INFO] - input - lola111@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:48:51 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:48:51 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-18 17:48:52 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:48:52 WebElementsActions [INFO] - input - 123356, to  - RegistrationRepeatPassInput
+2015-11-18 17:48:53 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:48:54 WebElementsActions [INFO] - textInvalidRegistration* Lösenord och bekräfta lösenord överensstämmer inte
+2015-11-18 17:48:54 Page [INFO] - Registration: Correct error message
+2015-11-18 17:48:55 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:50:38 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:50:38 Page [INFO] - Start open page
+2015-11-18 17:50:42 Page [INFO] - Page open successful
+2015-11-18 17:50:48 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:50:53 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:50:53 WebElementsActions [INFO] - input - lola66@mail.ru, to  - RegistrationEmail
+2015-11-18 17:50:55 WebElementsActions [INFO] - input - lola66@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:50:55 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:50:55 WebElementsActions [INFO] - input - qwy, to  - RegistrationPassInput
+2015-11-18 17:50:55 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:50:55 WebElementsActions [INFO] - input - qw, to  - RegistrationRepeatPassInput
+2015-11-18 17:50:57 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:50:57 WebElementsActions [INFO] - textInvalidRegistration* Lösenord och bekräfta lösenord överensstämmer inte
+* Lösenordet måste innehålla minst 4 tecken.
+2015-11-18 17:50:57 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 17:50:58 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:51:59 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:51:59 Page [INFO] - Start open page
+2015-11-18 17:52:03 Page [INFO] - Page open successful
+2015-11-18 17:52:08 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:52:12 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:52:13 WebElementsActions [INFO] - input - lola106@mail.ru, to  - RegistrationEmail
+2015-11-18 17:52:14 WebElementsActions [INFO] - input - lola106@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:52:14 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:52:14 WebElementsActions [INFO] - input - qwy, to  - RegistrationPassInput
+2015-11-18 17:52:14 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:52:14 WebElementsActions [INFO] - input - qw, to  - RegistrationRepeatPassInput
+2015-11-18 17:52:16 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:52:16 WebElementsActions [INFO] - textInvalidRegistration* Lösenord och bekräfta lösenord överensstämmer inte
+* Lösenordet måste innehålla minst 4 tecken.
+2015-11-18 17:52:16 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 17:52:17 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:52:43 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:52:43 Page [INFO] - Start open page
+2015-11-18 17:52:48 Page [INFO] - Page open successful
+2015-11-18 17:52:52 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:52:56 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:52:56 WebElementsActions [INFO] - input - lola106@mail.ru, to  - RegistrationEmail
+2015-11-18 17:52:57 WebElementsActions [INFO] - input - lola106@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:52:58 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:52:58 WebElementsActions [INFO] - input - qwy, to  - RegistrationPassInput
+2015-11-18 17:52:58 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:52:58 WebElementsActions [INFO] - input - qwy, to  - RegistrationRepeatPassInput
+2015-11-18 17:53:00 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:53:00 WebElementsActions [INFO] - textInvalidRegistration* Lösenordet måste innehålla minst 4 tecken.
+2015-11-18 17:53:00 Page [INFO] - Registration: Correct error message
+2015-11-18 17:53:01 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:53:38 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:53:38 Page [INFO] - Start open page
+2015-11-18 17:53:43 Page [INFO] - Page open successful
+2015-11-18 17:53:48 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:53:51 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:53:52 WebElementsActions [INFO] - input - lola24@mail.ru, to  - RegistrationEmail
+2015-11-18 17:53:53 WebElementsActions [INFO] - input - lola24@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:53:53 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:53:53 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-18 17:53:53 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:53:54 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-18 17:53:55 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:55:49 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:55:49 Page [INFO] - Start open page
+2015-11-18 17:55:53 Page [INFO] - Page open successful
+2015-11-18 17:55:59 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:56:03 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:56:03 WebElementsActions [INFO] - input - lola16mail.ru, to  - RegistrationEmail
+2015-11-18 17:56:04 WebElementsActions [INFO] - input - lola66@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:56:04 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:56:04 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-18 17:56:04 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:56:05 WebElementsActions [INFO] - input - qwyy, to  - RegistrationRepeatPassInput
+2015-11-18 17:56:06 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:56:07 WebElementsActions [INFO] - textInvalidRegistration* E-post och bekräfta e-post överensstämmer inte
+* Lösenord och bekräfta lösenord överensstämmer inte
+* Felaktig e-postadress
+2015-11-18 17:56:07 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 17:56:07 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:58:01 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:58:01 Page [INFO] - Start open page
+2015-11-18 17:58:07 Page [INFO] - Page open successful
+2015-11-18 17:58:12 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 17:58:17 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 17:58:17 WebElementsActions [INFO] - input - lola16mail.ru, to  - RegistrationEmail
+2015-11-18 17:58:18 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 17:58:18 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 17:58:18 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-18 17:58:19 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 17:58:19 WebElementsActions [INFO] - input - qwyy, to  - RegistrationRepeatPassInput
+2015-11-18 17:58:21 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 17:58:21 WebElementsActions [INFO] - textInvalidRegistration* E-post och bekräfta e-post överensstämmer inte
+* Lösenord och bekräfta lösenord överensstämmer inte
+* Felaktig e-postadress
+2015-11-18 17:58:21 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 17:58:22 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 17:59:58 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 17:59:58 Page [INFO] - Start open page
+2015-11-18 18:00:04 Page [INFO] - Page open successful
+2015-11-18 18:00:11 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 18:00:17 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 18:00:17 WebElementsActions [INFO] - input - lola16mail.ru, to  - RegistrationEmail
+2015-11-18 18:00:19 WebElementsActions [INFO] - input - lola16mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 18:00:19 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 18:00:19 WebElementsActions [INFO] - input - qwerty, to  - RegistrationPassInput
+2015-11-18 18:00:19 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 18:00:19 WebElementsActions [INFO] - input - qwyy, to  - RegistrationRepeatPassInput
+2015-11-18 18:00:21 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 18:00:21 WebElementsActions [INFO] - textInvalidRegistration* Lösenord och bekräfta lösenord överensstämmer inte
+* Felaktig e-postadress
+2015-11-18 18:00:21 Page [INFO] - Registration: Correct error message
+2015-11-18 18:00:22 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 18:01:27 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 18:01:27 Page [INFO] - Start open page
+2015-11-18 18:01:31 Page [INFO] - Page open successful
+2015-11-18 18:01:37 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 18:01:41 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 18:01:41 WebElementsActions [INFO] - input - lola66@mail.ru, to  - RegistrationEmail
+2015-11-18 18:01:42 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 18:01:42 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 18:01:42 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-18 18:01:43 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 18:01:43 WebElementsActions [INFO] - input - 123466, to  - RegistrationRepeatPassInput
+2015-11-18 18:01:45 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 18:01:45 WebElementsActions [INFO] - textInvalidRegistration* E-post och bekräfta e-post överensstämmer inte
+* Lösenord och bekräfta lösenord överensstämmer inte
+2015-11-18 18:01:45 Page [INFO] - Registration: Correct error message
+2015-11-18 18:01:46 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 18:02:40 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 18:02:40 Page [INFO] - Start open page
+2015-11-18 18:02:44 Page [INFO] - Page open successful
+2015-11-18 18:02:51 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 18:02:54 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 18:02:55 WebElementsActions [INFO] - input - lola66@mail, to  - RegistrationEmail
+2015-11-18 18:02:56 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 18:02:56 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 18:02:56 WebElementsActions [INFO] - input - 123, to  - RegistrationPassInput
+2015-11-18 18:02:56 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 18:02:56 WebElementsActions [INFO] - input - 1234, to  - RegistrationRepeatPassInput
+2015-11-18 18:02:58 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 18:02:58 WebElementsActions [INFO] - textInvalidRegistration* E-post och bekräfta e-post överensstämmer inte
+* Lösenord och bekräfta lösenord överensstämmer inte
+* Felaktig e-postadress
+* Lösenordet måste innehålla minst 4 tecken.
+2015-11-18 18:02:58 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 18:02:59 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 18:06:14 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 18:06:14 Page [INFO] - Start open page
+2015-11-18 18:06:19 Page [INFO] - Page open successful
+2015-11-18 18:06:24 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 18:06:28 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 18:06:28 WebElementsActions [INFO] - input - lola66@mail, to  - RegistrationEmail
+2015-11-18 18:06:29 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 18:06:30 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 18:06:30 WebElementsActions [INFO] - input - 123, to  - RegistrationPassInput
+2015-11-18 18:06:30 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 18:06:30 WebElementsActions [INFO] - input - 1234, to  - RegistrationRepeatPassInput
+2015-11-18 18:06:32 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 18:06:32 WebElementsActions [INFO] - textInvalidRegistration* E-post och bekräfta e-post överensstämmer inte
+* Lösenord och bekräfta lösenord överensstämmer inte
+* Felaktig e-postadress
+* Lösenordet måste innehålla minst 4 tecken.
+2015-11-18 18:06:32 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 18:06:33 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 18:22:49 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 18:22:49 Page [INFO] - Start open page
+2015-11-18 18:22:54 Page [INFO] - Page open successful
+2015-11-18 18:23:00 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 18:23:04 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 18:23:04 WebElementsActions [INFO] - input - lola66@mail, to  - RegistrationEmail
+2015-11-18 18:23:05 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 18:23:05 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 18:23:06 WebElementsActions [INFO] - input - 123, to  - RegistrationPassInput
+2015-11-18 18:23:06 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 18:23:06 WebElementsActions [INFO] - input - 1234, to  - RegistrationRepeatPassInput
+2015-11-18 18:23:08 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 18:23:08 WebElementsActions [INFO] - textInvalidRegistration* E-post och bekräfta e-post överensstämmer inte
+* Lösenord och bekräfta lösenord överensstämmer inte
+* Felaktig e-postadress
+* Lösenordet måste innehålla minst 4 tecken.
+2015-11-18 18:23:08 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 18:23:09 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 18:26:57 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 18:26:57 Page [INFO] - Start open page
+2015-11-18 18:27:04 Page [INFO] - Page open successful
+2015-11-18 18:27:10 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 18:27:14 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 18:27:14 WebElementsActions [INFO] - input - lola66@mail, to  - RegistrationEmail
+2015-11-18 18:27:15 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 18:27:16 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 18:27:16 WebElementsActions [INFO] - input - 123, to  - RegistrationPassInput
+2015-11-18 18:27:16 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 18:27:16 WebElementsActions [INFO] - input - 1234, to  - RegistrationRepeatPassInput
+2015-11-18 18:27:18 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 18:27:18 WebElementsActions [INFO] - textInvalidRegistration* E-post och bekräfta e-post överensstämmer inte
+* Lösenord och bekräfta lösenord överensstämmer inte
+* Felaktig e-postadress
+* Lösenordet måste innehålla minst 4 tecken.
+2015-11-18 18:27:18 Page [INFO] - Registration: Correct error message
+2015-11-18 18:27:19 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 18:27:56 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 18:27:56 Page [INFO] - Start open page
+2015-11-18 18:28:00 Page [INFO] - Page open successful
+2015-11-18 18:28:11 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 18:28:16 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 18:28:16 WebElementsActions [INFO] - input - lola66@mail, to  - RegistrationEmail
+2015-11-18 18:28:18 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 18:28:18 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 18:28:18 WebElementsActions [INFO] - input - 12356, to  - RegistrationPassInput
+2015-11-18 18:28:18 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 18:28:18 WebElementsActions [INFO] - input - 125534, to  - RegistrationRepeatPassInput
+2015-11-18 18:28:20 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 18:28:20 WebElementsActions [INFO] - textInvalidRegistration* E-post och bekräfta e-post överensstämmer inte
+* Lösenord och bekräfta lösenord överensstämmer inte
+* Felaktig e-postadress
+2015-11-18 18:28:20 Page [ERROR] - Registration: Incorrect error message
+2015-11-18 18:28:21 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 18:29:47 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 18:29:47 Page [INFO] - Start open page
+2015-11-18 18:29:52 Page [INFO] - Page open successful
+2015-11-18 18:29:58 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 18:30:04 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 18:30:06 WebElementsActions [INFO] - input - lola66@mail, to  - RegistrationEmail
+2015-11-18 18:30:09 WebElementsActions [INFO] - input - lola66mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 18:30:10 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 18:30:10 WebElementsActions [INFO] - input - 12356, to  - RegistrationPassInput
+2015-11-18 18:30:10 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 18:30:10 WebElementsActions [INFO] - input - 125534, to  - RegistrationRepeatPassInput
+2015-11-18 18:30:12 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 18:30:12 WebElementsActions [INFO] - textInvalidRegistration* E-post och bekräfta e-post överensstämmer inte
+* Lösenord och bekräfta lösenord överensstämmer inte
+* Felaktig e-postadress
+2015-11-18 18:30:12 Page [INFO] - Registration: Correct error message
+2015-11-18 18:30:14 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 18:31:54 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 18:31:54 Page [INFO] - Start open page
+2015-11-18 18:31:58 Page [INFO] - Page open successful
+2015-11-18 18:32:04 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 18:32:08 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 18:32:08 WebElementsActions [INFO] - input - lola24@mail.ru, to  - RegistrationEmail
+2015-11-18 18:32:10 WebElementsActions [INFO] - input - lola24@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 18:32:10 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 18:32:10 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-18 18:32:10 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 18:32:10 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-18 18:32:12 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 18:32:49 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 18:32:49 Page [INFO] - Start open page
+2015-11-18 18:32:54 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 18:32:58 Page [INFO] - Page open successful
+2015-11-18 18:33:03 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 18:33:06 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 18:33:07 WebElementsActions [INFO] - input - lola25@mail.ru, to  - RegistrationEmail
+2015-11-18 18:33:08 WebElementsActions [INFO] - input - lola25@mail.ru, to  - RegistrationRepeatEmail
+2015-11-18 18:33:08 WebElementsActions [INFO] - click ButtonRegistrationPass
+2015-11-18 18:33:08 WebElementsActions [INFO] - input - 123456, to  - RegistrationPassInput
+2015-11-18 18:33:08 WebElementsActions [INFO] - click ButtonRegistrationRepeatPass
+2015-11-18 18:33:08 WebElementsActions [INFO] - input - 123456, to  - RegistrationRepeatPassInput
+2015-11-18 18:33:11 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-11-18 18:33:11 Page [INFO] - Registration Fields are working correctly
+2015-11-18 18:33:11 WebElementsActions [INFO] - click ButtonLogOut
+2015-11-18 18:33:13 Page [INFO] - SwitchTo LogOut was correct
+2015-11-18 18:33:14 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 19:07:52 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 19:07:52 Page [INFO] - Start open page
+2015-11-18 19:07:57 Page [INFO] - Page open successful
+2015-11-18 19:08:02 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 19:08:06 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 19:08:06 WebElementsActions [INFO] - input - aksdjl@mail.ru, to  - EmailField
+2015-11-18 19:08:08 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 19:08:08 WebElementsActions [INFO] - input - dafjhl, to  - PassFieldInput
+2015-11-18 19:08:08 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-18 19:08:10 Page [INFO] - Correct error message
+2015-11-18 19:08:10 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 19:08:12 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 19:08:13 WebElementsActions [INFO] - input - aksdjl@mail.ru, to  - EmailField
+2015-11-18 19:08:13 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 19:08:13 WebElementsActions [INFO] - input - , to  - PassFieldInput
+2015-11-18 19:08:13 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-18 19:08:13 WebElementsActions [INFO] - textEmptyEmailOrPass*Måste ange ett lösenord.
+2015-11-18 19:08:13 Page [INFO] - Correct error message
+2015-11-18 19:08:14 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 19:08:16 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 19:08:16 WebElementsActions [INFO] - input - , to  - EmailField
+2015-11-18 19:08:16 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 19:08:16 WebElementsActions [INFO] - input - 123456, to  - PassFieldInput
+2015-11-18 19:08:16 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-18 19:08:17 WebElementsActions [INFO] - textEmptyEmailOrPass*Måste ange ett användarnamn.
+2015-11-18 19:08:17 Page [INFO] - Correct error message
+2015-11-18 19:08:17 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 19:08:19 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 19:08:19 WebElementsActions [INFO] - input - , to  - EmailField
+2015-11-18 19:08:20 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 19:08:20 WebElementsActions [INFO] - input - , to  - PassFieldInput
+2015-11-18 19:08:20 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-18 19:08:20 WebElementsActions [INFO] - textEmptyEmailOrPass*Måste ange ett användarnamn.
+*Måste ange ett lösenord.
+2015-11-18 19:08:20 Page [INFO] - Correct error message
+2015-11-18 19:08:21 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 19:08:23 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 19:08:23 WebElementsActions [INFO] - input - @mail.ru, to  - EmailField
+2015-11-18 19:08:23 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 19:08:23 WebElementsActions [INFO] - input - 123456, to  - PassFieldInput
+2015-11-18 19:08:24 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-18 19:08:25 Page [INFO] - Correct error message
+2015-11-18 19:08:26 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 19:08:28 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 19:08:28 WebElementsActions [INFO] - input - aksdjl.mail.ru, to  - EmailField
+2015-11-18 19:08:28 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 19:08:28 WebElementsActions [INFO] - input - 123456, to  - PassFieldInput
+2015-11-18 19:08:29 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-18 19:08:30 Page [INFO] - Correct error message
+2015-11-18 19:08:31 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 19:08:33 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 19:08:33 WebElementsActions [INFO] - input - aksdjl@mail.ru, to  - EmailField
+2015-11-18 19:08:33 WebElementsActions [INFO] - click ButtonPassField
+2015-11-18 19:08:33 WebElementsActions [INFO] - input - 123456, to  - PassFieldInput
+2015-11-18 19:08:34 WebElementsActions [INFO] - click ButtonLoginButton
+2015-11-18 19:08:36 Page [INFO] - Field Username and password are working correctly
+2015-11-18 19:08:37 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-11-18 23:45:53 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-11-18 23:45:53 Page [INFO] - Start open page
+2015-11-18 23:45:58 Page [INFO] - Page open successful
+2015-11-18 23:46:06 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-11-18 23:46:10 Page [INFO] - SwitchTo Login Page was correct
+2015-11-18 23:46:28 Page [INFO] - SwitchTo Product Page was correct
+2015-11-18 23:46:32 Log4Test [INFO] - INFO: "Finish Test Suite execution"
